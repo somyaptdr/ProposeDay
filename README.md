@@ -1,1 +1,1 @@
-# ProposeDay
+# propose-day
